@@ -193,7 +193,7 @@
           if (this.scrollEventTarget === window) {
             document.body.scrollTop += 50;
           } else {
-            this.scrollEventTarget.scrollTop += 50;
+            this.scrollEventTarget.scrollTop += 0;
           }
           this.translate = 0;
         });
