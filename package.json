@@ -1,6 +1,6 @@
 {
-  "name": "mint-ui",
-  "version": "2.2.13",
+  "name": "mintui-fixed",
+  "version": "2.2.4",
   "description": "Mobile UI elements for vue.js",
   "keywords": [
     "component",
@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/mint-ui.git"
+    "url": "git+https://github.com/silyeclan/mint-ui-fixed.git"
   },
-  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
+  "homepage": "https://github.com/silyeclan/mint-ui-fixed#readme",
   "bugs": {
-    "url": "https://github.com/ElemeFE/mint-ui/issues"
+    "url": "https://github.com/silyeclan/mint-ui-fixed/issues"
   },
-  "author": "elemefe",
+  "author": "silyeclan",
   "license": "MIT",
   "dependencies": {
     "array-find-index": "^1.0.2",
